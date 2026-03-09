@@ -1,8 +1,71 @@
 {
-    "creator": "https://wa.me/6289516636775",
-    "access": [
-        "6289516636775",
-        "6281234567890",
-        "6285640925491"
-    ]
+  "usr": [
+    "krz",
+    "kyu",
+    "hai"
+  ],
+  "apiOwn": [
+    "6285730347535"
+  ],
+  "pw": "skybot",
+  "ownerId": [
+    "7017228790",
+    "7714653282",
+    "7464889194",
+    "8289048251"
+  ],
+  "bots": [
+    "62881010916645",
+    "93776136045",
+    "93765707277",
+    "584169221885",
+    "6285730347535",
+    "6285640925491",
+    "6285165720437"
+  ],
+  "owners": [
+    "6285921655444",
+    "6285730347535",
+    "6281264279690",
+    "628871389870",
+    "62881010916645",
+    "2250151796444",
+    "93776136045"
+  ],
+  "ip": [
+    "165.22.188.63",
+    "147.182.230.147",
+    "134.199.153.218",
+    "174.138.31.68",
+    "143.198.188.31",
+    "174.138.91.76",
+    "206.189.82.2",
+    "142.93.190.83",
+    "188.166.232.41",
+    "139.59.106.216",
+    "203.83.46.48",
+    "128.199.240.85",
+    "188.166.252.231",
+    "154.12.118.217",
+    "167.172.48.57"
+  ],
+  "tokens": [
+    "8210019770:AAGbCbSA0c0AcGgk8mn2pnYJ_SagDXAKeWQ",
+    "8346184736:AAG7u8HIscA-G_fcJZmlSfQ30ZTevxkf2Q4",
+    "7437060234:AAH3vqwjq2t4KOlORdRFbqcsD5U4oePOXlk",
+    "8292306047:AAHZy-bXKKUSkAP71qGUcNM3Wxkftu2l4lY",
+    "7322186197:AAFS6Rv25IctLNlzdgoqDYDramOmaM6Y7QU",
+    "8232373010:AAFN4Fts0FcYzUAkbRnPb3M9qL_2GJ-4ENs",
+    "8087164556:AAEmnx9GiyWue08Tp1XavnRfhPPQKb22lHE",
+    "8210019770:AAErLcpF4LUyO1Ehnnmr5GnvgudU3LP1e2s",
+    "8230402583:AAGnuusgzlqNOGYUFbjodn29_m6MvZADB_4",
+    "8386162487:AAEVUpD155l7UwBI18q0F90BPMu4LjINpKg",
+    "8386162487:AAG19y-6KgmyMgBHpAVnPiEcxElb1J8BpIk",
+    "7686090328:AAE_NmtrvedRhgFmY38VqSpqwwh6ljsdqDI",
+    "8210019770:AAFGGZVWA4tvBiW0SftRyz64mPnPao9b5p4",
+    "8210019770:AAF1vr-rII2iZ-u0kczbdZdU2Dp3k8CFHUM",
+    "8451193448:AAGIjHtAl0Skv3ERih3gRJMEnYzAzLbdvyk",
+    "8386162487:AAElzLSQKSsuVr3Oi8fF0yzidz3Rianp06w",
+    "8214903430:AAHooNK4rlBMd6_JMEVqqEQGR5H5_9iV4gE"
+  ]
 }
